@@ -6,8 +6,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Jaynuke79's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaynuke79&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Jaynuke79's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaynuke79&show_icons=true&theme=radical&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Jaynuke79's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaynuke79&show_icons=true&theme=radical&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 Jaynuke79/Jaynuke79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
