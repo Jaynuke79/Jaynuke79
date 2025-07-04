@@ -13,24 +13,24 @@ I got my first taste of coding back in middle school, but didn’t dive in deep 
 
 ### Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-beta-six-31.vercel.app/api?username=Jaynuke79&show_icons=true&theme=chartreuse-dark&border_radius=9&custom_title=Jaynuke79's%20Github%20Stats" />
+  <img height=150 align="center" src="https://github-readme-stats-beta-six-31.vercel.app/api?username=Jaynuke79&show_icons=true&theme=chartreuse-dark&border_radius=9&custom_title=Jaynuke79's%20Github%20Stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-beta-six-31.vercel.app/api?username=Jaynuke79&show_icons=true&theme=chartreuse-dark&border_radius=9&custom_title=Jaynuke79's%20Github%20Stats&locale=cn" />
+  <img height=150 align="center" src="https://github-readme-stats-beta-six-31.vercel.app/api?username=Jaynuke79&show_icons=true&theme=chartreuse-dark&border_radius=9&custom_title=Jaynuke79's%20Github%20Stats&locale=cn" />
 </a>
 
 ### Public Personal Projects
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=100 align="center" src="https://github-readme-stats-beta-six-31.vercel.app/api/pin/?username=Jaynuke79&repo=AutoMenu&theme=chartreuse-dark" />
+  <img height=100 align="center" src="https://github-readme-stats-beta-six-31.vercel.app/api/pin/?username=Jaynuke79&repo=AutoMenu&theme=chartreuse-dark&description_lines_count=2" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=100 align="center" src="https://github-readme-stats-beta-six-31.vercel.app/api/pin/?username=Jaynuke79&repo=WeatherApiApp&theme=chartreuse-dark" />
+  <img height=100 align="center" src="https://github-readme-stats-beta-six-31.vercel.app/api/pin/?username=Jaynuke79&repo=WeatherApiApp&theme=chartreuse-dark&description_lines_count=2" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=100 align="center" src="https://github-readme-stats-beta-six-31.vercel.app/api/pin/?username=Jaynuke79&repo=PokemonDetector&theme=chartreuse-dark" />
+  <img height=100 align="center" src="https://github-readme-stats-beta-six-31.vercel.app/api/pin/?username=Jaynuke79&repo=PokemonDetector&theme=chartreuse-dark&description_lines_count=2" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=100 align="center" src="https://github-readme-stats-beta-six-31.vercel.app/api/pin/?username=Jaynuke79&repo=100PrisonerProblem&theme=chartreuse-dark" />
+  <img height=100 align="center" src="https://github-readme-stats-beta-six-31.vercel.app/api/pin/?username=Jaynuke79&repo=100PrisonerProblem&theme=chartreuse-dark&description_lines_count=2" />
 </a>
 
 ### My Language Breakdown
