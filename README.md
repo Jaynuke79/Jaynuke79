@@ -20,19 +20,19 @@ I got my first taste of coding back in middle school, but didn’t dive in deep 
 </a>
  
 ### Public Personal Projects
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Jaynuke79/AutoMenu">
   <img height=100 align="center" src="https://github-readme-stats-beta-six-31.vercel.app/api/pin/?username=Jaynuke79&repo=AutoMenu&theme=chartreuse-dark&description_lines_count=2" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Jaynuke79/WeatherApiApp">
   <img height=100 align="center" src="https://github-readme-stats-beta-six-31.vercel.app/api/pin/?username=Jaynuke79&repo=WeatherApiApp&theme=chartreuse-dark&description_lines_count=2" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Jaynuke79/PokemonDetector">
   <img height=100 align="center" src="https://github-readme-stats-beta-six-31.vercel.app/api/pin/?username=Jaynuke79&repo=PokemonDetector&theme=chartreuse-dark&description_lines_count=2" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Jaynuke79/100PrisonerProblem">
   <img height=100 align="center" src="https://github-readme-stats-beta-six-31.vercel.app/api/pin/?username=Jaynuke79&repo=100PrisonerProblem&theme=chartreuse-dark&description_lines_count=2" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Jaynuke79/Portfolio">
   <img height=100 align="center" src="https://github-readme-stats-beta-six-31.vercel.app/api/pin/?username=Jaynuke79&repo=Portfolio&theme=chartreuse-dark&description_lines_count=2" />
 </a>
 
